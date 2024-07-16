@@ -1,0 +1,16 @@
+POST https://karizmatik-2b6bd67a5cc1.herokuapp.com/postmessage
+Content-Type: application/json
+
+# {
+#     "title": "test notification",
+#     "msgBody": "test body"
+# }
+
+{"userId": "668eec6b51447a69b1d10335",
+"content": "Hope well",
+"name": "Vroy_mv",
+"phoneNumber": "8054108169",
+"admin": true
+}
+
+//https://karizmatik-2b6bd67a5cc1.herokuapp.com/
